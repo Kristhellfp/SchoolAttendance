@@ -1,0 +1,1 @@
+import{b as e,c as t,d as n,e as r,f as i,g as a}from"./index-BID__6hc.js";e();export{i as Headers,r as Request,a as Response,t as default,n as fetch};
